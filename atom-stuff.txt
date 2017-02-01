@@ -1,0 +1,9 @@
+autocomplete-modules@1.6.7
+color-picker@2.2.4
+file-icons@2.0.13
+gloom@0.4.4
+highlight-selected@0.12.0
+minimap@4.26.7
+minimap-pigments@0.2.2
+pigments@0.39.0
+
