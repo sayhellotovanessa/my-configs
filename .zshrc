@@ -5,8 +5,8 @@
 export PATH=$PATH:/usr/local/lib/ruby/gems/1.9.1/gems/jekyll-2.5.2/bin
 
 
-# Path to your oh-my-zsh installation.
-  export ZSH=/home/vanessa/.oh-my-zsh
+# Path to your oh-my-zsh installation. CHANGE THIS
+  export ZSH=/home/xxxxxxxxxxxx/.oh-my-zsh
 
 . /usr/share/autojump/autojump.sh
 # Set name of the theme to load. Optionally, if you set this to "random"
@@ -56,7 +56,7 @@ ZSH_THEME="bira"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git autojump history-substring-search django frontend-search golang grunt gulp)
+plugins=(git autojump history-substring-search django frontend-search golang grunt gulp command-not-found chucknorris common-aliases compleat ng sudo)
 
 source $ZSH/oh-my-zsh.sh
 
